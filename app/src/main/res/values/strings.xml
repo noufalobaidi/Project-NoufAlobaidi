@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Nouf AlObaidi-191014</string>
+    <string name="title_activity_delete">Delete</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="delete_page">Delete Page</string>
+    <string name="userid">UserID:</string>
+    <string name="deletee">Delete</string>
+    <string name="vieww">View</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="view">View Page</string>
+    <string name="welcome_to_nouf_alobaidi_s_project">Nouf AlObaidi (191014) Project</string>
+    <string name="update">Update Page</string>
+    <string name="insert_in_the_firebase">Insert data in the firebase</string>
+    <string name="confirm_add">Confirm Add</string>
+    <string name="useridtxt">userid</string>
+    <string name="email_address">Email address</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="weather">Weather Page</string>
+    <string name="_30">30</string>
+    <string name="city">City</string>
+    <string name="temperature">Temperature</string>
+    <string name="textview">TextView</string>
+    <string name="img1">weather image</string>
+    <string name="updatee">Update</string>
+    <string name="useridt">user ID:</string>
+    <string name="namet">Name:</string>
+    <string name="new_string">New String</string>
+</resources>
